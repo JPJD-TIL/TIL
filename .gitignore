@@ -186,8 +186,9 @@ pip-selfcheck.json
 *.vsix
 
 ## jp - custom ignore
-jp/data/*.csv
 jp/nadongbin/Deep-Learning-Paper-Review-and-Practice
+jp/nadongbin/mynotebooks/.data/
+jp/kaggle/*/data/
 
 ## jd - custom ignore
 jd/*.csv
