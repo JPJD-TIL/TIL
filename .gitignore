@@ -187,6 +187,7 @@ pip-selfcheck.json
 
 ## jp - custom ignore
 jp/data/*.csv
+jp/nadongbin/Deep-Learning-Paper-Review-and-Practice
 
 ## jd - custom ignore
 jd/*.csv
